@@ -1,0 +1,309 @@
+[2023-11-13 22:12:52][notice]Start restoring themes.
+[2023-11-13 22:12:52][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:12:52][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip succeeded.
+[2023-11-13 22:12:52][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_themes.zip index:0
+[2023-11-13 22:12:54][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_themes.zip index:0 finished.
+[2023-11-13 22:12:54][notice]End restore themes.
+[2023-11-13 22:12:56][notice]Start restoring themes.
+[2023-11-13 22:12:56][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_themes.zip index:1000
+[2023-11-13 22:12:58][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_themes.zip index:1000 finished.
+[2023-11-13 22:12:58][notice]End restore themes.
+[2023-11-13 22:13:00][notice]Start restoring plugin.
+[2023-11-13 22:13:00][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:13:00][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip succeeded.
+[2023-11-13 22:13:00][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:0
+[2023-11-13 22:13:01][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:0 finished.
+[2023-11-13 22:13:01][notice]End restore plugin.
+[2023-11-13 22:13:03][notice]Start restoring plugin.
+[2023-11-13 22:13:03][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:1000
+[2023-11-13 22:13:03][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:1000 finished.
+[2023-11-13 22:13:03][notice]End restore plugin.
+[2023-11-13 22:13:05][notice]Start restoring plugin.
+[2023-11-13 22:13:05][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:2000
+[2023-11-13 22:13:07][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:2000 finished.
+[2023-11-13 22:13:07][notice]End restore plugin.
+[2023-11-13 22:13:09][notice]Start restoring plugin.
+[2023-11-13 22:13:09][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:3000
+[2023-11-13 22:13:12][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:3000 finished.
+[2023-11-13 22:13:12][notice]End restore plugin.
+[2023-11-13 22:13:14][notice]Start restoring plugin.
+[2023-11-13 22:13:14][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:4000
+[2023-11-13 22:13:17][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:4000 finished.
+[2023-11-13 22:13:17][notice]End restore plugin.
+[2023-11-13 22:13:18][notice]Start restoring plugin.
+[2023-11-13 22:13:18][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:5000
+[2023-11-13 22:13:21][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:5000 finished.
+[2023-11-13 22:13:21][notice]End restore plugin.
+[2023-11-13 22:13:23][notice]Start restoring plugin.
+[2023-11-13 22:13:23][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:6000
+[2023-11-13 22:13:26][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:6000 finished.
+[2023-11-13 22:13:26][notice]End restore plugin.
+[2023-11-13 22:13:28][notice]Start restoring plugin.
+[2023-11-13 22:13:28][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:7000
+[2023-11-13 22:13:30][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:7000 finished.
+[2023-11-13 22:13:30][notice]End restore plugin.
+[2023-11-13 22:13:32][notice]Start restoring plugin.
+[2023-11-13 22:13:32][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:8000
+[2023-11-13 22:13:35][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:8000 finished.
+[2023-11-13 22:13:35][notice]End restore plugin.
+[2023-11-13 22:13:37][notice]Start restoring plugin.
+[2023-11-13 22:13:37][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:9000
+[2023-11-13 22:13:40][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:9000 finished.
+[2023-11-13 22:13:40][notice]End restore plugin.
+[2023-11-13 22:13:42][notice]Start restoring plugin.
+[2023-11-13 22:13:42][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:10000
+[2023-11-13 22:13:44][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:10000 finished.
+[2023-11-13 22:13:44][notice]End restore plugin.
+[2023-11-13 22:13:46][notice]Start restoring plugin.
+[2023-11-13 22:13:46][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:11000
+[2023-11-13 22:13:49][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_plugin.zip index:11000 finished.
+[2023-11-13 22:13:49][notice]End restore plugin.
+[2023-11-13 22:13:51][notice]Start restoring wp-content.
+[2023-11-13 22:13:51][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:13:51][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip succeeded.
+[2023-11-13 22:13:51][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_content.zip index:0
+[2023-11-13 22:13:51][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_content.zip index:0 finished.
+[2023-11-13 22:13:51][notice]End restore wp-content.
+[2023-11-13 22:13:53][notice]Start restoring upload.
+[2023-11-13 22:13:53][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:13:53][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip succeeded.
+[2023-11-13 22:13:53][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_uploads.zip index:0
+[2023-11-13 22:13:53][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_uploads.zip index:0 finished.
+[2023-11-13 22:13:53][notice]End restore upload.
+[2023-11-13 22:13:55][notice]Start restoring wp-core.
+[2023-11-13 22:13:55][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:13:55][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip succeeded.
+[2023-11-13 22:13:55][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_core.zip
+[2023-11-13 22:14:02][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_core.zip succeeded.
+[2023-11-13 22:14:02][notice]End restore wp-core.
+[2023-11-13 22:14:04][notice]Start restoring databases.
+[2023-11-13 22:14:04][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip
+[2023-11-13 22:14:04][notice]Extracting file:localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_all.zip finished.
+[2023-11-13 22:14:04][notice]Extracting file:C:\xampp\htdocs\praktyka_p/wp-content\wpvividbackups\localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_db.zip
+[2023-11-13 22:14:05][notice]Extracting file:C:\xampp\htdocs\praktyka_p/wp-content\wpvividbackups\localhost_praktyka_p_wpvivid-65528bd16bbbd_2023-11-13-21-49_backup_db.zip finished.
+[2023-11-13 22:14:05][notice]End restore databases.
+[2023-11-13 22:14:06][notice]Start restoring databases.
+[2023-11-13 22:14:06][notice]Start restoring sql file offset:0
+[2023-11-13 22:14:06][notice]The test to drop table succeeds.
+[2023-11-13 22:14:06][notice]Drop table if exist tmp8bb124_ff_scheduled_actions
+[2023-11-13 22:14:06][notice]Creating table tmp8bb124_ff_scheduled_actions
+[2023-11-13 22:14:06][notice]Drop table if exist tmp8bb124_fluentform_entry_details
+[2023-11-13 22:14:06][notice]Creating table tmp8bb124_fluentform_entry_details
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_form_analytics
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_form_analytics
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_form_meta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_form_meta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_forms
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_forms
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_logs
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_logs
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_submission_meta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_submission_meta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_fluentform_submissions
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_fluentform_submissions
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_mainwp_wpvivid
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_mainwp_wpvivid
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_mainwp_wpvivid_global
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_mainwp_wpvivid_global
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_mainwp_wpvivid_global_options
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_mainwp_wpvivid_global_options
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_mainwp_wpvividmeta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_mainwp_wpvividmeta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_nextend2_smartslider3_generators
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_nextend2_smartslider3_generators
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_wpforms_tasks_meta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_wpforms_tasks_meta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_wpmailsmtp_debug_events
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_wpmailsmtp_debug_events
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_wpmailsmtp_tasks_meta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_wpmailsmtp_tasks_meta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_actionscheduler_claims
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_actionscheduler_claims
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_actionscheduler_groups
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_actionscheduler_groups
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_duplicator_packages
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_duplicator_packages
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_e_events
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_e_events
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_links
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_links
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_nextend2_image_storage
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_nextend2_image_storage
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_nextend2_smartslider3_sliders_xref
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_nextend2_smartslider3_sliders_xref
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_term_relationships
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_term_relationships
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_actionscheduler_logs
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_actionscheduler_logs
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_commentmeta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_commentmeta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_term_taxonomy
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_term_taxonomy
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_termmeta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_termmeta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_terms
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_terms
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_usermeta
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_usermeta
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_users
+[2023-11-13 22:14:07][notice]Creating table tmp8bb124_users
+[2023-11-13 22:14:07][notice]Drop table if exist tmp8bb124_wpforms_payment_meta
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_wpforms_payment_meta
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_comments
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_comments
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_nextend2_smartslider3_sliders
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_nextend2_smartslider3_sliders
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_actionscheduler_actions
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_actionscheduler_actions
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_wpforms_payments
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_wpforms_payments
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_nextend2_section_storage
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_nextend2_section_storage
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_nextend2_smartslider3_slides
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_nextend2_smartslider3_slides
+[2023-11-13 22:14:08][notice]Drop table if exist tmp8bb124_options
+[2023-11-13 22:14:08][notice]Creating table tmp8bb124_options
+[2023-11-13 22:14:08][notice]Reading sql file completed offset:5285472
+[2023-11-13 22:14:08][notice]End restore databases.
+[2023-11-13 22:14:10][notice]Start restoring databases.
+[2023-11-13 22:14:10][notice]Start restoring sql file offset:5285472
+[2023-11-13 22:14:10][notice]The test to drop table succeeds.
+[2023-11-13 22:14:10][notice]Drop table if exist tmp8bb124_simply_static_pages
+[2023-11-13 22:14:10][notice]Creating table tmp8bb124_simply_static_pages
+[2023-11-13 22:14:17][notice]Reading sql file completed offset:10528401
+[2023-11-13 22:14:17][notice]End restore databases.
+[2023-11-13 22:14:19][notice]Start restoring databases.
+[2023-11-13 22:14:19][notice]Start restoring sql file offset:10528401
+[2023-11-13 22:14:19][notice]The test to drop table succeeds.
+[2023-11-13 22:14:21][notice]Drop table if exist tmp8bb124_posts
+[2023-11-13 22:14:21][notice]Creating table tmp8bb124_posts
+[2023-11-13 22:14:21][notice]Reading sql file completed offset:15778569
+[2023-11-13 22:14:21][notice]End restore databases.
+[2023-11-13 22:14:23][notice]Start restoring databases.
+[2023-11-13 22:14:23][notice]Start restoring sql file offset:15778569
+[2023-11-13 22:14:23][notice]The test to drop table succeeds.
+[2023-11-13 22:14:24][notice]Drop table if exist tmp8bb124_postmeta
+[2023-11-13 22:14:24][notice]Creating table tmp8bb124_postmeta
+[2023-11-13 22:14:25][notice]Reading sql file completed offset:21025903
+[2023-11-13 22:14:25][notice]End restore databases.
+[2023-11-13 22:14:27][notice]Start restoring databases.
+[2023-11-13 22:14:27][notice]Start restoring sql file offset:21025903
+[2023-11-13 22:14:27][notice]The test to drop table succeeds.
+[2023-11-13 22:14:27][notice]Reading sql file completed offset:26286272
+[2023-11-13 22:14:27][notice]End restore databases.
+[2023-11-13 22:14:29][notice]Start restoring databases.
+[2023-11-13 22:14:29][notice]Start restoring sql file offset:26286272
+[2023-11-13 22:14:29][notice]The test to drop table succeeds.
+[2023-11-13 22:14:30][notice]Reading sql file completed offset:31540903
+[2023-11-13 22:14:30][notice]End restore databases.
+[2023-11-13 22:14:32][notice]Start restoring databases.
+[2023-11-13 22:14:32][notice]Start restoring sql file offset:31540903
+[2023-11-13 22:14:32][notice]The test to drop table succeeds.
+[2023-11-13 22:14:33][notice]Reading sql file completed offset:36800968
+[2023-11-13 22:14:33][notice]End restore databases.
+[2023-11-13 22:14:34][notice]Start restoring databases.
+[2023-11-13 22:14:34][notice]Start restoring sql file offset:36800968
+[2023-11-13 22:14:34][notice]The test to drop table succeeds.
+[2023-11-13 22:14:35][notice]Reading sql file completed offset:42049619
+[2023-11-13 22:14:35][notice]End restore databases.
+[2023-11-13 22:14:37][notice]Start restoring databases.
+[2023-11-13 22:14:37][notice]Start restoring sql file offset:42049619
+[2023-11-13 22:14:37][notice]The test to drop table succeeds.
+[2023-11-13 22:14:37][notice]Reading sql file completed offset:47292811
+[2023-11-13 22:14:37][notice]End restore databases.
+[2023-11-13 22:14:39][notice]Start restoring databases.
+[2023-11-13 22:14:39][notice]Start restoring sql file offset:47292811
+[2023-11-13 22:14:39][notice]The test to drop table succeeds.
+[2023-11-13 22:14:39][notice]UPDATE tmp8bb124_options SET option_value="http://localhost/praktyka_p" WHERE option_name="siteurl";
+[2023-11-13 22:14:39][notice]update query len:100
+[2023-11-13 22:14:39][notice]UPDATE tmp8bb124_options SET option_value="http://localhost/praktyka_p" WHERE option_name="home";
+[2023-11-13 22:14:39][notice]update query len:97
+[2023-11-13 22:14:39][notice]Restore db success
+[2023-11-13 22:14:39][notice]End restore databases.
+[2023-11-13 22:14:41][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_comments
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_duplicator_packages
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_e_events
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_ff_scheduled_actions
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_entry_details
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_form_analytics
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_form_meta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_forms
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_logs
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_submission_meta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_fluentform_submissions
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_links
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_mainwp_wpvivid
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_mainwp_wpvivid_global
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_mainwp_wpvivid_global_options
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_mainwp_wpvividmeta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_image_storage
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_section_storage
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_generators
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders_xref
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_slides
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_options
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_postmeta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_posts
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_simply_static_pages
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_termmeta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_terms
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_usermeta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_users
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_wpforms_payment_meta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_wpforms_payments
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_wpforms_tasks_meta
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_wpmailsmtp_debug_events
+[2023-11-13 22:14:41][notice]DROP TABLE IF EXISTS wp_wpmailsmtp_tasks_meta
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_actionscheduler_actions TO wp_actionscheduler_actions
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_actionscheduler_claims TO wp_actionscheduler_claims
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_actionscheduler_groups TO wp_actionscheduler_groups
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_actionscheduler_logs TO wp_actionscheduler_logs
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_commentmeta TO wp_commentmeta
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_comments TO wp_comments
+[2023-11-13 22:14:41][notice]RENAME TABLE tmp8bb124_duplicator_packages TO wp_duplicator_packages
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_e_events TO wp_e_events
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_ff_scheduled_actions TO wp_ff_scheduled_actions
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_entry_details TO wp_fluentform_entry_details
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_form_analytics TO wp_fluentform_form_analytics
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_form_meta TO wp_fluentform_form_meta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_forms TO wp_fluentform_forms
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_logs TO wp_fluentform_logs
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_submission_meta TO wp_fluentform_submission_meta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_fluentform_submissions TO wp_fluentform_submissions
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_links TO wp_links
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_mainwp_wpvivid TO wp_mainwp_wpvivid
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_mainwp_wpvivid_global TO wp_mainwp_wpvivid_global
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_mainwp_wpvivid_global_options TO wp_mainwp_wpvivid_global_options
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_mainwp_wpvividmeta TO wp_mainwp_wpvividmeta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_image_storage TO wp_nextend2_image_storage
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_section_storage TO wp_nextend2_section_storage
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_smartslider3_generators TO wp_nextend2_smartslider3_generators
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_smartslider3_sliders TO wp_nextend2_smartslider3_sliders
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_smartslider3_sliders_xref TO wp_nextend2_smartslider3_sliders_xref
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_nextend2_smartslider3_slides TO wp_nextend2_smartslider3_slides
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_options TO wp_options
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_postmeta TO wp_postmeta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_posts TO wp_posts
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_simply_static_pages TO wp_simply_static_pages
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_term_relationships TO wp_term_relationships
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_term_taxonomy TO wp_term_taxonomy
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_termmeta TO wp_termmeta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_terms TO wp_terms
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_usermeta TO wp_usermeta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_users TO wp_users
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_wpforms_payment_meta TO wp_wpforms_payment_meta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_wpforms_payments TO wp_wpforms_payments
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_wpforms_tasks_meta TO wp_wpforms_tasks_meta
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_wpmailsmtp_debug_events TO wp_wpmailsmtp_debug_events
+[2023-11-13 22:14:42][notice]RENAME TABLE tmp8bb124_wpmailsmtp_tasks_meta TO wp_wpmailsmtp_tasks_meta
+[2023-11-13 22:14:42][notice]Replacing table prefix succeeded.
+[2023-11-13 22:14:42][notice]Deleting temp files.
