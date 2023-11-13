@@ -121,9 +121,6 @@ class Options {
 			'enabled',
 			'connections',
 		],
-		'alert_events'         => [
-			'email_hard_bounced',
-		],
 	];
 
 	/**
