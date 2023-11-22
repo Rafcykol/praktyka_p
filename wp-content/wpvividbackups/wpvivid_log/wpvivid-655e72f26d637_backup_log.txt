@@ -1,0 +1,152 @@
+Log created: 2023-11-22 22:30:26
+Type: backup
+[2023-11-22 22:30:28][notice]Start backing up.
+[2023-11-22 22:30:28][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.1.1 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:118,80 MB memory_get_peak_usage:120,83 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-22 22:30:28][notice]Prepare to backup backup_db files.
+[2023-11-22 22:30:28][notice]Start exporting database.
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_ff_scheduled_actions
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_entry_details
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_form_analytics
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_form_meta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_forms
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_logs
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_submission_meta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_fluentform_submissions
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_mainwp_wpvivid
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_mainwp_wpvivid_global
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_mainwp_wpvivid_global_options
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_mainwp_wpvividmeta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_nextend2_smartslider3_generators
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_wpmailsmtp_tasks_meta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_actionscheduler_claims
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_actionscheduler_groups
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_duplicator_packages
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_e_events
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_eb_form_settings
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_links
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_nextend2_image_storage
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_nextend2_smartslider3_sliders_xref
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_term_relationships
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_actionscheduler_logs
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_commentmeta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_term_taxonomy
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_termmeta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_terms
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_usermeta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_wpmailsmtp_debug_events
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_users
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_wpforms_payment_meta
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_nextend2_section_storage
+[2023-11-22 22:30:28][notice]Preparing to dump table wp_comments
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_nextend2_smartslider3_sliders
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_actionscheduler_actions
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_wpforms_payments
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_nextend2_smartslider3_slides
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_options
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_simply_static_pages
+[2023-11-22 22:30:29][notice]Preparing to dump table wp_posts
+[2023-11-22 22:30:30][notice]Preparing to dump table wp_postmeta
+[2023-11-22 22:30:32][notice]Exporting database finished.
+[2023-11-22 22:30:32][notice]Start compressing database
+[2023-11-22 22:30:32][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_db.sql
+[2023-11-22 22:30:34][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_db.part001.zip, filesize: 6,98 MB
+[2023-11-22 22:30:34][notice]Compressing database completed
+[2023-11-22 22:30:34][notice]Backing up backup_db completed.
+[2023-11-22 22:30:34][notice]Prepare to backup backup_themes files.
+[2023-11-22 22:30:35][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip index:500
+[2023-11-22 22:30:38][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip success. index:500 file size:3,25 MB
+[2023-11-22 22:30:38][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip index:1000
+[2023-11-22 22:30:43][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip success. index:1000 file size:13,09 MB
+[2023-11-22 22:30:43][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip index:1500
+[2023-11-22 22:30:45][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.part001.zip success. index:1500 file size:18,87 MB
+[2023-11-22 22:30:45][notice]Backing up backup_themes completed.
+[2023-11-22 22:30:45][notice]Prepare to backup backup_plugin files.
+[2023-11-22 22:30:52][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:500
+[2023-11-22 22:30:55][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:500 file size:3,25 MB
+[2023-11-22 22:30:56][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:1000
+[2023-11-22 22:31:00][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:1000 file size:4,75 MB
+[2023-11-22 22:31:00][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:1500
+[2023-11-22 22:31:07][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:1500 file size:7,14 MB
+[2023-11-22 22:31:07][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:2000
+[2023-11-22 22:31:16][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:2000 file size:8,59 MB
+[2023-11-22 22:31:16][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:2500
+[2023-11-22 22:31:23][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:2500 file size:16,40 MB
+[2023-11-22 22:31:23][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:3000
+[2023-11-22 22:31:26][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:3000 file size:18,08 MB
+[2023-11-22 22:31:26][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:3500
+[2023-11-22 22:31:35][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:3500 file size:21,85 MB
+[2023-11-22 22:31:35][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:4000
+[2023-11-22 22:31:39][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:4000 file size:26,08 MB
+[2023-11-22 22:31:39][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:4500
+[2023-11-22 22:31:43][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:4500 file size:28,48 MB
+[2023-11-22 22:31:43][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:5000
+[2023-11-22 22:31:49][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:5000 file size:31,46 MB
+[2023-11-22 22:31:49][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:5500
+[2023-11-22 22:31:56][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:5500 file size:35,99 MB
+[2023-11-22 22:31:56][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:6000
+[2023-11-22 22:32:02][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:6000 file size:41,27 MB
+[2023-11-22 22:32:02][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:6500
+[2023-11-22 22:32:08][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:6500 file size:42,40 MB
+[2023-11-22 22:32:08][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:7000
+[2023-11-22 22:32:14][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:7000 file size:47,91 MB
+[2023-11-22 22:32:14][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:7500
+[2023-11-22 22:32:18][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:7500 file size:50,33 MB
+[2023-11-22 22:32:18][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:8000
+[2023-11-22 22:32:26][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:8000 file size:52,72 MB
+[2023-11-22 22:32:26][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:8500
+[2023-11-22 22:32:31][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:8500 file size:53,48 MB
+[2023-11-22 22:32:31][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:9000
+[2023-11-22 22:32:34][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:9000 file size:55,10 MB
+[2023-11-22 22:32:34][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:9500
+[2023-11-22 22:32:38][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:9500 file size:58,38 MB
+[2023-11-22 22:32:38][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:10000
+[2023-11-22 22:32:45][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:10000 file size:59,43 MB
+[2023-11-22 22:32:45][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:10500
+[2023-11-22 22:32:50][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:10500 file size:64,71 MB
+[2023-11-22 22:32:50][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:11000
+[2023-11-22 22:32:56][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:11000 file size:67,10 MB
+[2023-11-22 22:32:56][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:11500
+[2023-11-22 22:33:04][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:11500 file size:67,83 MB
+[2023-11-22 22:33:04][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:12000
+[2023-11-22 22:33:15][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:12000 file size:69,24 MB
+[2023-11-22 22:33:15][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip index:12500
+[2023-11-22 22:33:22][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.part001.zip success. index:12500 file size:70,14 MB
+[2023-11-22 22:33:22][notice]Backing up backup_plugin completed.
+[2023-11-22 22:33:22][notice]Prepare to backup backup_uploads files.
+[2023-11-22 22:33:22][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_uploads.part001.zip index:500
+[2023-11-22 22:33:23][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_uploads.part001.zip success. index:500 file size:12,91 MB
+[2023-11-22 22:33:23][notice]Backing up backup_uploads completed.
+[2023-11-22 22:33:23][notice]Prepare to backup backup_content files.
+[2023-11-22 22:33:23][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_content.part001.zip index:500
+[2023-11-22 22:33:24][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_content.part001.zip success. index:500 file size:1,37 MB
+[2023-11-22 22:33:24][notice]Backing up backup_content completed.
+[2023-11-22 22:33:24][notice]Prepare to backup backup_core files.
+[2023-11-22 22:33:25][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:500
+[2023-11-22 22:33:33][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:500 file size:2,24 MB
+[2023-11-22 22:33:33][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:1000
+[2023-11-22 22:33:37][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:1000 file size:2,79 MB
+[2023-11-22 22:33:37][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:1500
+[2023-11-22 22:33:39][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:1500 file size:4,05 MB
+[2023-11-22 22:33:39][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:2000
+[2023-11-22 22:33:47][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:2000 file size:10,27 MB
+[2023-11-22 22:33:47][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:2500
+[2023-11-22 22:33:53][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:2500 file size:13,18 MB
+[2023-11-22 22:33:53][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip index:3000
+[2023-11-22 22:33:55][notice]Compressing zip file:localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.part001.zip success. index:3000 file size:13,65 MB
+[2023-11-22 22:33:55][notice]Backing up backup_core completed.
+[2023-11-22 22:33:55][notice]Prepare to backup backup_merge files.
+[2023-11-22 22:33:55][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_db.zip
+[2023-11-22 22:33:55][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 4,96 MB
+[2023-11-22 22:33:55][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_themes.zip
+[2023-11-22 22:33:56][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 23,56 MB
+[2023-11-22 22:33:56][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_plugin.zip
+[2023-11-22 22:33:57][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 90,98 MB
+[2023-11-22 22:33:58][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_uploads.zip
+[2023-11-22 22:33:58][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 103,86 MB
+[2023-11-22 22:33:58][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_content.zip
+[2023-11-22 22:33:59][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 105,22 MB
+[2023-11-22 22:33:59][notice]Prepare to zip file. file: localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_core.zip
+[2023-11-22 22:33:59][notice]Adding zip files completed.localhost_praktyka_p_wpvivid-655e72f26d637_2023-11-22-22-30_backup_all.part001.zip, filesize: 118,49 MB
+[2023-11-22 22:34:00][notice]Backing up backup_merge completed.
+[2023-11-22 22:34:00][notice]Backup completed.
